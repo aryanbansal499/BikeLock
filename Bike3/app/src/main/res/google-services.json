@@ -1,0 +1,114 @@
+{
+  "project_info": {
+    "project_number": "519239248925",
+    "firebase_url": "https://bikedb-81c06.firebaseio.com",
+    "project_id": "bikedb-81c06",
+    "storage_bucket": "bikedb-81c06.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:519239248925:android:08d1474f9d6cc9d4",
+        "android_client_info": {
+          "package_name": "com.example.thelock"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "519239248925-ekvqbpgd5sukp319jtdrrecfssq29qm0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBk7SGK8XKzAhMWSuvwz4AFjNutx6-OlIY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "519239248925-ekvqbpgd5sukp319jtdrrecfssq29qm0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:519239248925:android:a286d6837eaef5c6",
+        "android_client_info": {
+          "package_name": "e.aryan.bike3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "519239248925-1n8f0vdv6p1hopjp9hm2v2bbk7ai1c4o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "e.aryan.bike3",
+            "certificate_hash": "24bcd289b15a33a69f81d39c06524ce61d347aa0"
+          }
+        },
+        {
+          "client_id": "519239248925-ekvqbpgd5sukp319jtdrrecfssq29qm0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBk7SGK8XKzAhMWSuvwz4AFjNutx6-OlIY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "519239248925-ekvqbpgd5sukp319jtdrrecfssq29qm0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:519239248925:android:1c61c38c40dbf119",
+        "android_client_info": {
+          "package_name": "e.aryan.theft"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "519239248925-lir175h0n6f0glshq698ssb94mikrtdk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "e.aryan.theft",
+            "certificate_hash": "24bcd289b15a33a69f81d39c06524ce61d347aa0"
+          }
+        },
+        {
+          "client_id": "519239248925-ekvqbpgd5sukp319jtdrrecfssq29qm0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBk7SGK8XKzAhMWSuvwz4AFjNutx6-OlIY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "519239248925-ekvqbpgd5sukp319jtdrrecfssq29qm0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
